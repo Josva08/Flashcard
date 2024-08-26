@@ -1,0 +1,10 @@
+0, Hvad er et bit?, Enten 1 eller 0, 1
+1, Hvad er en byte?, 8 bits, 1
+2, Hvad står ASCII for?, American Standard Code for Information Interchange, 2
+3, Hvad er en char?, et bogstav, 1
+4, Hvad er deklaration?, Bestemmelse af en datatype, 1
+5, Hvad er initiering?, Tildeling af en værdi, 1
+6, Hvad er en primitiv datatype?, En datatype som kan repræsenteres i en byte, 1
+7, Hvad er en ikke primitiv datatype?, En datatype som ikke kan repræsenteres i en byte, 1
+8, Hvad er overflow?, Når en byte rammer sin max værdi og går tilbage til startværdien, 2,
+9, Hvad er et repository?, En samling a filer på github, 2
