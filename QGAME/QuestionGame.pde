@@ -5,16 +5,19 @@ int ID=0;
 
 void setup() {
   size(1200, 800);
-  textSize(50);
-  fill(0, 0, 0);
+  fill(255);
   readfile.getReadfile();
   questions=readfile.getAll();
 }
 
 
 void draw() {
-  background(175, 0, 255);
+  background(50);
+  textSize(30);
   text(screenText, 100, 300);
+  textSize(25);
+  text("Tryk på Mellemrum for at få et spørgsmål",100,670);
+  text("Tryk på C for at få svaret",100,700);
 }
 
 void keyPressed() {
