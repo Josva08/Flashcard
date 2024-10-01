@@ -1,6 +1,6 @@
 class Readfile {
   // Attributer
-  Question[] questions=new Question[10];
+  Question[] questions=new Question[11];
 
   // Konstruktører
   Readfile() {

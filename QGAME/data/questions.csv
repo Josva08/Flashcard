@@ -8,3 +8,4 @@
 7, Hvad er en ikke primitiv datatype?, En datatype som ikke kan repræsenteres i en byte, 1
 8, Hvad er overflow?, Når en byte rammer sin max værdi og går tilbage til startværdien, 2,
 9, Hvad er et repository?, En samling a filer på github, 2
+10,Test,test svar,2
